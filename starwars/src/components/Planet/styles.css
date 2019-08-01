@@ -1,0 +1,10 @@
+@font-face {
+    src: url(../../fonts/Starjhol.ttf);
+    font-family: 'StarWarsHeader';  
+}
+
+@font-face {
+    src: url(../../fonts/Starjedi.ttf);
+    font-family: 'StarWarsBtn';  
+}
+
